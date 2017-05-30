@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KotlinDemo</string>
+    <string name="internet_connection_unavailable">Internet is not available</string>
+    <string name="server_error">Server Error</string>
+</resources>
